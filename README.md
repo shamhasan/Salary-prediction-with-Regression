@@ -36,8 +36,8 @@ The project workflow consists of the following steps:
 2. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Decision%20Tree.JPG)
 3. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Random%20forest.JPG)
 
-- **Best Model**: 
-
+- **Best Model**:
+  Based on the evaluation metrics, the Random Forest Regression model outperformed the other models in terms of accuracy and robustness. It achieved the lowest Mean Squared Error (MSE) and the highest R-squared (R²) score, indicating its ability to capture non-linear relationships and provide more reliable predictions. Therefore, the Random Forest model was selected as the final model for deployment. It is well-suited for this dataset due to its ensemble nature, which combines multiple decision trees to reduce overfitting and improve generalization.
 ## Usage
 
 To use the saved model for salary prediction:
@@ -45,4 +45,4 @@ To use the saved model for salary prediction:
 1. Load the model using:
    ```python
    from joblib import load
-   model = load('best_model.pkl')
+   model = load('random_forest_model.pkl')
