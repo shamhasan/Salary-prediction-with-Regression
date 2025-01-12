@@ -32,9 +32,11 @@ The project workflow consists of the following steps:
 ## Results
 
 - **Model Performance**:
-- ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/33a02247223880f91cb8ab12ae5911a39122ecc2/Linear%20REgression.JPG)
-- ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/33a02247223880f91cb8ab12ae5911a39122ecc2/Linear%20REgression.JPG)
-- **Best Model**: [State the name of the best-performing model and explain why it was chosen].
+1. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/33a02247223880f91cb8ab12ae5911a39122ecc2/Linear%20REgression.JPG)
+2. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Decision%20Tree.JPG)
+3. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Random%20forest.JPG)
+
+- **Best Model**: 
 
 ## Usage
 
