@@ -31,7 +31,8 @@ The project workflow consists of the following steps:
 
 ## Results
 
-- **Model Performance**: [Insert a table or summary showing the MSE and R² scores for both the training and testing sets for each model].
+- **Model Performance**:
+  ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/33a02247223880f91cb8ab12ae5911a39122ecc2/Linear%20REgression.JPG)
 - **Best Model**: [State the name of the best-performing model and explain why it was chosen].
 
 ## Usage
