@@ -36,8 +36,12 @@ The project workflow consists of the following steps:
 2. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Decision%20Tree.JPG)
 3. ![image alt](https://github.com/shamhasan/Salary-prediction-with-Regression/blob/b28504976d5cce543bb815c94203e12c555cfbe5/Random%20forest.JPG)
 
+
+
 - **Best Model**:
-  Based on the evaluation metrics, the Random Forest Regression model outperformed the other models in terms of accuracy and robustness. It achieved the lowest Mean Squared Error (MSE) and the highest R-squared (R²) score, indicating its ability to capture non-linear relationships and provide more reliable predictions. Therefore, the Random Forest model was selected as the final model for deployment. It is well-suited for this dataset due to its ensemble nature, which combines multiple decision trees to reduce overfitting and improve generalization.
+  After comparing the performance of the three models using Mean Squared Error (MSE) and R-squared (R²) score. the Random Forest Regression emerged as the best model for salary prediction. It achieved the lowest MSE on the test data (21,744.73) and the highest R² score on the test data (0.94). demonstrating excellent accuracy and strong generalization capabilities. Additionally. the gap between training and testing data MSE (18,007.29) is smaller compared to the other models. indicating a lower risk of overfitting. Therefore. the Random Forest Regression was selected as the final model for deployment.
+
+
 ## Usage
 
 To use the saved model for salary prediction:
